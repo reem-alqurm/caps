@@ -8,9 +8,6 @@
 # PR link : 
 * [link](https://github.com/reem-alqurm/caps/pulls)
 
-# Deployed link :
-* [link](https://www.google.com)
-
 # GitHub actions:
 * [link](https://github.com/reem-alqurm/caps/actions)
 
